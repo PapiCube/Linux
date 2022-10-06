@@ -1,0 +1,50 @@
+El wallpaper de mi parrot linux lo puedes encontrar acá:
+
+https://wallpaperaccess.com/full/3947138.jpg
+
+La configuración de linux fue creada por Mr. Pr1ngl3s y Jacks y puedes contrar el repositorio con los pasos para la instalación aquí:
+
+https://github.com/xJackSx/BSPWMparrot
+
+Considera que para controlar este entorno necesitas atajos de teclado ya que este no se maneja con mouse por lo que te dejo una pequeña guia con los shortcuts más 
+utilizados para la gui:
+
+Abrir consola ----> windows enter
+
+Cerrar consola ----> windows w
+
+sudo user ----> esc esc 
+
+listar archivos ----> ll
+
+leer archivos (es un bat cat) ----> cat 
+
+setear objetivo en pollybar ----> settarget "ip"
+
+Dividir la kitty ----> control shift enter
+
+crear nueva pestaña -----> control shift t
+
+renombrar pestañas -----> control shift alt t
+
+Agrandar la ventana emergente -----> windows alt flechas
+
+Mover ventana emergente -----> windows control flechas o windows y mover libremente con el mouse
+
+
+
+bspwn config:
+
+configurar la pollybar ----> nano .config/pollybar/pollybar.conf
+
+nano .config/pollybar/current.ini
+
+configurar la kitty ----> nano .config/kitty/kitty.conf
+
+cinfigurar wallpaper del bspwm ----> nano .config/bspwm/bspwmrc
+
+configurar picom (visual de la bspwm) ----> nano .config/picom/picom.conf
+
+configurar shortcuts ----> nano .config/sxhkd/sxhkdrc 
+ 
+
